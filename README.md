@@ -1,2 +1,1 @@
-# demo
-just a demo
+Here are the full stack development notes.
